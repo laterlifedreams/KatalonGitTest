@@ -4,4 +4,9 @@
    <name>default</name>
    <tag></tag>
    <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Test to see if this is loaded with the project</description>
+      <initValue>'This is a test'</initValue>
+      <name>TestGlobalVar</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>
